@@ -1,0 +1,45 @@
+{
+  "strategy_name": "20 日动量选股（参数可调整）",
+  "symbols": [
+    "AAPL",
+    "IBM",
+    "MSFT",
+    "SBUX"
+  ],
+  "data_start": "2007-01-03",
+  "data_end": "2016-03-01",
+  "source_rows": 2306,
+  "evaluation_start": "2007-02-01",
+  "evaluation_end": "2016-03-01",
+  "return_periods": 2285,
+  "lookback": 20,
+  "interval": 5,
+  "top_n": 2,
+  "cost": 0.001,
+  "initial_capital": 100000,
+  "data_sha256": "60bf505fec160ce05ba959382adee32ea6e53ce14fe22886db27c58fe1b0d26b",
+  "rebalance_count": 457,
+  "strategy_trade_count": 1158,
+  "strategy_total_fee": 44445.22870754259,
+  "benchmark_total_fee": 99.90009990009992,
+  "strategy": {
+    "total_return": 1.6184381474828284,
+    "annual_return": 0.11199689119021583,
+    "annual_volatility": 0.2526847577033112,
+    "sharpe": 0.5464155511780593,
+    "max_drawdown": 0.6288634826751136,
+    "final_nav": 2.6184381474828284,
+    "positive_day_ratio": 0.523851203501094
+  },
+  "benchmark": {
+    "total_return": 3.1454247780233358,
+    "annual_return": 0.16979098561928674,
+    "annual_volatility": 0.2455336067900096,
+    "sharpe": 0.7616136193924707,
+    "max_drawdown": 0.5391199134727598,
+    "final_nav": 4.145424778023336,
+    "positive_day_ratio": 0.5417943107221006
+  },
+  "price_basis": "数据源历史价格，复权和分红处理未获独立核验；不宣称含分红总收益",
+  "research_scope": "四只事后选定股票的历史教学样本；全样本描述，无独立样本外验证"
+}

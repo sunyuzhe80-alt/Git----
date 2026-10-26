@@ -1,0 +1,9 @@
+{
+  "python": "3.6.13",
+  "zip_extract_and_run_passed": true,
+  "started_outside_project_directory": true,
+  "unit_tests_passed": 16,
+  "six_csv_outputs_byte_identical": true,
+  "metrics_match": true,
+  "video_excluded_from_email_attachment": true
+}

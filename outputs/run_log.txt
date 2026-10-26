@@ -1,0 +1,7 @@
+Python 3.6.13
+Interpreter: C:\Users\86198\anaconda3\envs\myEnvironment\python.exe
+Command: python main.py
+动量策略：累计收益 161.84%，夏普 0.546，最大回撤 62.89%
+四股买入持有：累计收益 314.54%，夏普 0.762，最大回撤 53.91%
+排名记录：1832 条；调仓执行：457 次
+报告：C:\Users\86198\Desktop\量化\momentum_strategy_py36\outputs\report.html

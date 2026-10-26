@@ -1,0 +1,26 @@
+{
+  "primary_python": "3.6.13 (Anaconda myEnvironment)",
+  "tested_interpreters": [
+    {
+      "python": "3.6.13",
+      "interpreter": "C:\\Users\\86198\\anaconda3\\envs\\myEnvironment\\python.exe",
+      "unit_tests_passed": 16,
+      "all_python_files_compile": true,
+      "backtest_and_cost_study_passed": true,
+      "matches_original_strategy_results_within_1e_10_relative_tolerance": true
+    },
+    {
+      "python": "3.6.8",
+      "interpreter": "C:\\Users\\86198\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+      "unit_tests_passed": 16,
+      "all_python_files_compile": true,
+      "backtest_and_cost_study_passed": true,
+      "matches_original_strategy_results_within_1e_10_relative_tolerance": true
+    }
+  ],
+  "launchers_tested": true,
+  "strategy_rules_unchanged": true,
+  "original_video_copied_byte_identical": true,
+  "video_content_not_reviewed": true,
+  "reference_original_preserved": true
+}

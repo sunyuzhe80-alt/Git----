@@ -1,0 +1,2 @@
+# Python 3.6.8 / 3.6.13；仅使用标准库，无第三方 pip 依赖。
+# Anaconda 环境定义见 environment.yml。

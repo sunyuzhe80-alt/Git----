@@ -1,0 +1,16 @@
+{
+  "python": "3.6.13",
+  "unit_tests_passed": 16,
+  "default_backtest_completed": true,
+  "source_rows": 2306,
+  "daily_records": 2286,
+  "rank_records": 1832,
+  "trade_records": 1162,
+  "all_trades_execute_next_session": true,
+  "nonnegative_cash": true,
+  "max_accounting_error": 8.594369660386292e-11,
+  "benchmark_independent_formula_matches": true,
+  "svg_xml_valid": true,
+  "html_charts_embedded": true,
+  "note": "自动核验不代表本人 IDE Debug 录屏已经完成，也不证明策略有效"
+}

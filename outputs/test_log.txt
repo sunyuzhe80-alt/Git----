@@ -1,0 +1,24 @@
+Python 3.6.13
+Interpreter: C:\Users\86198\anaconda3\envs\myEnvironment\python.exe
+Command: python -m unittest discover -s tests -v
+test_accounting_identity_each_day (test_strategy.StrategyTests) ... ok
+test_all_negative_still_selects_two (test_strategy.StrategyTests) ... ok
+test_benchmark_matches_independent_formula (test_strategy.StrategyTests) ... ok
+test_buy_cost_is_self_financing (test_strategy.StrategyTests) ... ok
+test_drawdown_includes_initial_nav (test_strategy.StrategyTests) ... ok
+test_factor_formula_and_ties (test_strategy.StrategyTests) ... ok
+test_fixed_rebalance_schedule (test_strategy.StrategyTests) ... ok
+test_flat_zero_cost_has_undefined_sharpe (test_strategy.StrategyTests) ... ok
+test_full_switch_pays_both_sides (test_strategy.StrategyTests) ... ok
+test_future_changes_do_not_change_past (test_strategy.StrategyTests) ... ok
+test_invalid_csv (test_strategy.StrategyTests) ... ok
+test_rejects_insufficient_data (test_strategy.StrategyTests) ... ok
+test_rejects_invalid_parameters (test_strategy.StrategyTests) ... ok
+test_signal_delay_and_first_profit (test_strategy.StrategyTests) ... ok
+test_weights_drift_between_rebalances (test_strategy.StrategyTests) ... ok
+test_yearly_compounding_matches_final_nav (test_strategy.StrategyTests) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.027s
+
+OK

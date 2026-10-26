@@ -1,0 +1,18 @@
+{
+  "download_date_beijing": "2026-10-19",
+  "publisher": "Plotly datasets",
+  "source_url": "https://raw.githubusercontent.com/plotly/datasets/master/stockdata.csv",
+  "rows": 2306,
+  "date_start": "2007-01-03",
+  "date_end": "2016-03-01",
+  "symbols": [
+    "AAPL",
+    "IBM",
+    "MSFT",
+    "SBUX"
+  ],
+  "prices_sha256": "60bf505fec160ce05ba959382adee32ea6e53ce14fe22886db27c58fe1b0d26b",
+  "input_matches_original": true,
+  "user_reference_zip_sha256": "2900c7a6a3365dbce13644ec189b474f24e5071096ac34f564167217b2737d83",
+  "price_basis": "数据源价格；复权及分红处理未独立核验"
+}
