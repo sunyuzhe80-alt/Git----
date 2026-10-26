@@ -33,7 +33,6 @@ def main():
                    "strategy_trade_count": sum(t["account"] == "strategy" for t in trades),
                    "strategy_total_fee": sum(r["strategy_fee"] for r in daily),
                    "benchmark_total_fee": sum(r["benchmark_fee"] for r in daily),
-                   "strategy": performance(daily, "strategy"), "benchmark": performance(daily, "benchmark"),
                    "price_basis": "数据源历史价格，复权和分红处理未获独立核验；不宣称含分红总收益",
                    "research_scope": "四只事后选定股票的历史教学样本；全样本描述，无独立样本外验证"}
         save_results(args.output, daily, trades, rankings, rebalances, summary)
